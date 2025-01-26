@@ -1,0 +1,9 @@
+/home/penguin/code/InfiniTensor/exam-grading/rustlings/target/debug/deps/libvariables6-6f20cf45ddb6a413.rmeta: exercises/01_variables/variables6.rs Cargo.toml
+
+/home/penguin/code/InfiniTensor/exam-grading/rustlings/target/debug/deps/variables6-6f20cf45ddb6a413.d: exercises/01_variables/variables6.rs Cargo.toml
+
+exercises/01_variables/variables6.rs:
+Cargo.toml:
+
+# env-dep:CLIPPY_ARGS=
+# env-dep:CLIPPY_CONF_DIR
