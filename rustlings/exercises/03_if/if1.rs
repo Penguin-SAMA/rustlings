@@ -1,3 +1,5 @@
+use core::alloc;
+
 fn bigger(a: i32, b: i32) -> i32 {
     // TODO: 完善这个函数，满足以下要求:
     //
@@ -6,7 +8,7 @@ fn bigger(a: i32, b: i32) -> i32 {
     // 不要使用：
     // - 另一个函数调用
     // - 额外的变量(仅能使用`a`和`b`)
-
+    if a > b
 }
 
 fn main() {
